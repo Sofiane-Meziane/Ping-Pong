@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-![Capture d'écran du jeu Ping Pong](https://raw.githubusercontent.com/Sofiane-Meziane/ping-pong/main/ping%20pong55.png)
+![Capture d'écran du jeu Ping Pong](https://github.com/Sofiane-Meziane/Ping-Pong/blob/59c099a58153ef159d64bcc596c2f67ba9c30e59/Ping%20Pong.png)
 
 ## 🕹️ À propos du projet
 
