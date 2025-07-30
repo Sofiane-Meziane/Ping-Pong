@@ -41,7 +41,7 @@ Pour compiler et lancer ce projet, vous devez avoir un environnement de dévelop
 ### Étapes de compilation
 1.  **Clonez le repository** sur votre machine :
     ```sh
-    git clone [https://github.com/Sofiane-Meziane/ping-pong.git](https://github.com/Sofiane-Meziane/ping-pong.git)
+    git clone https://github.com/Sofiane-Meziane/Ping-Pong.git
     ```
 2.  **Naviguez vers le dossier** du projet :
     ```sh
