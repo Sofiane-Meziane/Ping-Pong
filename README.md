@@ -15,7 +15,7 @@ Le gameplay est simple et réactif, opposant le joueur à un adversaire contrôl
 ## ✨ Fonctionnalités
 
 * **Gameplay simple et réactif :** Contrôlez votre raquette avec les touches du clavier pour renvoyer la balle.
-* **Adversaire IA :** L'adversaire est contrôlé par l'ordinateur et suit automatiquement la trajectoire de la balle en temps réel.
+* **Adversaire :** L'adversaire est contrôlé par l'ordinateur et suit automatiquement la trajectoire de la balle en temps réel.
 * **Gestion de la balle :** La balle a une vitesse dynamique et rebondit sur les raquettes et les bords de l'écran.
 * **Détection des collisions :** Une détection précise des collisions entre la balle, les raquettes et les murs.
 * **Système de score :** Le score est affiché et mis à jour en temps réel.
